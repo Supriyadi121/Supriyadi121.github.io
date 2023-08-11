@@ -1,8 +1,11 @@
-link repo github : https://github.com/Supriyadi121/011_Supriyadi_sesi07_B10
+berhubungan untuk project pinal saya akan selalu di update di waktu senggang
+untuk pemahaman juga alhamdulillah tidak sia sia saya belajar di HacktiV 8
 
-link github page : Supriyadi121.github.io
+niatnya di halaman index saya akan memasukan link ref kepada setiap bagian bagian season
+sehingga nanti akan di design semenarik mungkin, karna waktu yang tidak mendukung setelah masuk ke 
+indek silahkan klik "home"
 
-untuk creat account netifly terjadi kesalahan sehingga susah untuk membuat akun
-maka untuk tugas 7 hosting gi githubpage
+final project saya menggunakan Firebase 
+berikut link firebase = supriyadi-a3fa6.web.app
 
-link github page : Supriyadi121.github.io
+berikut link github = https://github.com/Supriyadi121/batch10_web_programming_kp
